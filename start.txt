@@ -1,0 +1,1 @@
+Sample file created in local working directory after cloing the project from GIT repository
